@@ -1,0 +1,21 @@
+{
+  "name": "node_http_server_challenge",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Makhi Richburg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrichburg/Node-HTTP-Server-Challenge.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mrichburg/Node-HTTP-Server-Challenge/issues"
+  },
+  "homepage": "https://github.com/mrichburg/Node-HTTP-Server-Challenge#readme",
+  "description": ""
+}
